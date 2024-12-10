@@ -1,12 +1,12 @@
 import project1 from "../assets/projects/wproject-1.png";
 import project2 from "../assets/projects/qproject-1.png";
 import project3 from "../assets/projects/project-1.png";
-import project4 from "../assets/projects/5project-1.png"
-import anna from "../assets/projects/anna.png"
-import srm from "../assets/projects/srm.png"
-import jv from "../assets/projects/jv.png"
-import jhss from "../assets/projects/jhss.png"
-import resume from "../assets/projects/Shriramkumaran.RnewResume.pdf"
+import project4 from "../assets/projects/5project-1.png";
+import anna from "../assets/projects/anna.png";
+import srm from "../assets/projects/srm.png";
+import jv from "../assets/projects/jv.png";
+import jhss from "../assets/projects/jhss.png";
+import resume from "../assets/projects/Shriramkumaran.RnewResume.pdf";
 
 
 
